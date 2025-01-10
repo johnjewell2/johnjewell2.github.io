@@ -4,7 +4,7 @@
 ### Power BI
 
 [Project 1: Time Sales Data - Interactive Report](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/powerbi time sales report.PNG?raw=true"/>
 ---
 
 ---
