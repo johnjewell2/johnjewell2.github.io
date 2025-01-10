@@ -11,7 +11,7 @@
 ### Tableau
 
 [Project 1: Coffeehouse Data - Interactive Report](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/tableau coffeeshop report.PNG?raw=true"/>
 ---
 
 ---
