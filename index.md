@@ -28,7 +28,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
+---
+### SQL
 
+[Projects: Querying Exercises](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
 
 
 
