@@ -8,17 +8,10 @@
 ---
 
 ---
-### Tableau
-
-[Project: Coffeehouse Data - Interactive Report](/sample_page)
-<img src="images/tableau coffeeshop report.PNG?raw=true"/>
----
-
----
 ### R
 
 [Project: Machine Learning with R - All Models](/R_AllModels.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/rstudiocloud.png?raw=true"/>
 ---
 
 ---
@@ -26,6 +19,13 @@
 
 [Project 1: Coffeehouse Data - Interactive Report](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
+---
+### Tableau
+
+[Project: Coffeehouse Data - Interactive Report](/sample_page)
+<img src="images/tableau coffeeshop report.PNG?raw=true"/>
 ---
 
 ---
