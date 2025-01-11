@@ -1,15 +1,31 @@
-## This can be your internal website page / project page (This is in face the new website page)
+## Machine Learning sous R
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** This project is in fact a collection of the various models types explored throughout my studies, assembled all into one place. For each model, we we will working with data from the Credit Score data set.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Load necessary packages
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Here we are loading in all the necessary packages for this projet.
 
-```javascript
-if (isAwesome){
-  return true
-}
+```{r, include = FALSE}
+#install.packages(c("titanic","tidyverse","caret","mice","VIM","MASS","ranger","randomForest","RColorBrewer","rpart","rattle","e1071","esquisse"))
+#install.packages(c("XML","rpart.plot"))
+#install.packages("rattle", repos="https://rattle.togaware.com", type="source")
+library(titanic)
+library(tidyverse)
+library(caret)
+library(mice) 
+library(VIM)
+library(MASS)
+library(ranger)
+library(randomForest)
+library(RColorBrewer)
+library(rpart)
+library(rattle)
+library(e1071)
+library(esquisse)
+library(kernlab)
+library(tidymodels)
+library(ROCR)
 ```
 
 ### 2. Assess assumptions on which statistical inference will be based
