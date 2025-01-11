@@ -17,7 +17,7 @@
 ---
 ### R
 
-[Project 1: Coffeehouse Data - Interactive Report](/RStudio Code (All Models))
+[Project 1: Coffeehouse Data - Interactive Report](/R_AllModels.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
