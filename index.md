@@ -3,7 +3,7 @@
 ---
 ### Power BI
 
-[Project 1: Time Sales Data - Interactive Report](/sample_page)
+[Project 1: Time Sales Data - Interactive Report](/sample_page.md)
 <img src="images/powerbi time sales report.PNG?raw=true"/>
 ---
 
