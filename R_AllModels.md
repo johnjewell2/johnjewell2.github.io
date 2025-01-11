@@ -6,7 +6,7 @@
 
 Here we are loading in all the necessary packages for this projet.
 
-```{r, include = FALSE}
+```{r}, include = FALSE}
 #install.packages(c("titanic","tidyverse","caret","mice","VIM","MASS","ranger","randomForest","RColorBrewer","rpart","rattle","e1071","esquisse"))
 #install.packages(c("XML","rpart.plot"))
 #install.packages("rattle", repos="https://rattle.togaware.com", type="source")
