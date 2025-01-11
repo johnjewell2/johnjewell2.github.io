@@ -3,21 +3,21 @@
 ---
 ### Power BI
 
-[Project 1: Time Sales Data - Interactive Report](/sample_page.md)
+[Project: Time Sales Data - Interactive Report](/sample_page.md)
 <img src="images/powerbi time sales report.PNG?raw=true"/>
 ---
 
 ---
 ### Tableau
 
-[Project 1: Coffeehouse Data - Interactive Report](/sample_page)
+[Project: Coffeehouse Data - Interactive Report](/sample_page)
 <img src="images/tableau coffeeshop report.PNG?raw=true"/>
 ---
 
 ---
 ### R
 
-[Project 1: Coffeehouse Data - Interactive Report](/R_AllModels.md)
+[Project: Machine Learning with R - All Models](/R_AllModels.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
