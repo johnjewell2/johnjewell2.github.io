@@ -17,12 +17,15 @@
 ---
 ### R
 
-[Project: Machine Learning with R - All Models](/R_AllModels.md)
+[Project: Machine Learning with R - 3 Model Types](/R_AllModels.md)
 <img src="images/rstudiocloud.png?raw=true"/>
 ---
 
+---
+### SQL
 
-
-
+[Project: SQL Queries - Fundamentals](/sql_exercises.md)
+<img src="images/rstudiocloud.png?raw=true"/>
+---
 
 
