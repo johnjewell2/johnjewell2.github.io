@@ -17,8 +17,8 @@
 ---
 ### Python
 
-[Project 1: Coffeehouse Data - Interactive Report](/python_vivatech.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project: Extracting Prospect Data - VivaTech](/python_vivatech.md)
+<img src="images/python.png?raw=true"/>
 ---
 
 ---
