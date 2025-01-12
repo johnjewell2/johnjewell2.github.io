@@ -25,7 +25,7 @@
 ### SQL
 
 [Project: SQL Queries - Fundamentals](/sql_exercises.md)
-<img src="images/rstudiocloud.png?raw=true"/>
+<img src="images/sql.jpeg?raw=true"/>
 ---
 
 
