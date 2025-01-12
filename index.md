@@ -3,7 +3,7 @@
 ---
 ### Power BI
 
-[Project: Time Sales Data - Interactive Report](/python_timesales.md)
+[Project: Time Sales Data - Interactive Report](/powerbi_timesales.md)
 <img src="images/powerbi time sales report.PNG?raw=true"/>
 ---
 
