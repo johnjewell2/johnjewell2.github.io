@@ -17,7 +17,7 @@
 ---
 ### Python
 
-[Project 1: Coffeehouse Data - Interactive Report](/sample_page)
+[Project 1: Coffeehouse Data - Interactive Report](/python_vivatech.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
