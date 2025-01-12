@@ -8,13 +8,6 @@
 ---
 
 ---
-### R
-
-[Project: Machine Learning with R - All Models](/R_AllModels.md)
-<img src="images/rstudiocloud.png?raw=true"/>
----
-
----
 ### Python
 
 [Project: Extracting Prospect Data - VivaTech](/python_vivatech.md)
@@ -22,17 +15,10 @@
 ---
 
 ---
-### Tableau
+### R
 
-[Project: Coffeehouse Data - Interactive Report](/sample_page)
-<img src="images/tableau coffeeshop report.PNG?raw=true"/>
----
-
----
-### SQL
-
-[Projects: Querying Exercises](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project: Machine Learning with R - All Models](/R_AllModels.md)
+<img src="images/rstudiocloud.png?raw=true"/>
 ---
 
 
