@@ -18,7 +18,7 @@
 ### Python
 
 [Project: Extracting Prospect Data - VivaTech](/python_vivatech.md)
-<img src="images/python.png?raw=true"/>
+<img src="images/vivatech.png?raw=true"/>
 ---
 
 ---
