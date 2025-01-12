@@ -1,4 +1,4 @@
-## Extrating Web Data for Trade Show Prospecting
+## Extracting Web Data for Trade Show Prospecting
 
 **Project description:** This project is code which I wrote and used throughout my time as a business developer/account manager at Infopro Digital. Often times, B2B trade shows will offer a functionality allowing you to download exhibitor data in an excel speadsheet. This is however not always the case, and it was common for sales people to take down infomation manually. This script allowed myself and my team to quickly and easily get the information needed for proper preparation of our trade show prospection.
 
