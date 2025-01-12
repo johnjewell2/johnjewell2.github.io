@@ -4,7 +4,7 @@
 
 ### 1. Loading necessary packages
 
-Here we are loading in all the necessary packages for this projet.
+Here we are loading in all the necessary packages for this project.
 
 ```
 import requests
