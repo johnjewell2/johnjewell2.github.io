@@ -43,3 +43,5 @@ Once we have created all of our KPI measures and switches, we proceed to creatin
 Our final result is an interactive report which allows rapid viewing of KPIs based on the year selected, which can be broken down further by month, product type, and country. This enables the end user to understand strengths and weaknesses in the company's performance at a glance, which can provide great insight for further analysis.
 
 <img src="images/powerbi time sales report.PNG?raw=true"/>
+
+<img src="images/final result.PNG?raw=true"/>
