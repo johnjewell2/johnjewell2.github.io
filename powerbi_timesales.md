@@ -8,7 +8,7 @@ The first step in creating our report is to perform any necessary transformation
 
 <img src="images/powerquery.PNG?raw=true"/>
 
-### 2. Establishign relationships between data tables
+### 2. Establishing relationships between data tables
 
 The next step is to establish relationships between our data tables using the unique identifiers. In our data, our unique identifiers are product_id and account_id. 
 
